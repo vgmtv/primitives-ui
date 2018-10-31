@@ -23,8 +23,8 @@
     "@a7/icons": "^1.0.0",
     "@a7/rsvg": "^1.0.0",
     "@a7/vgm-constant": "^1.0.2",
-    "react": "^16.6.0",
-    "react-dom": "^16.6.0",
+    "react": "16.4",
+    "react-dom": "16.4",
     "react-primitives": "^0.6.1",
     "react-spring": "^6.1.5"
   },
