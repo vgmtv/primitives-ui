@@ -3,7 +3,7 @@ node_modules/
 build/
 dist/
 *.log
-**/doc
+!/docs/build
 !/**/.gitkeep
 !/**/*.ini
 .DS_Store
