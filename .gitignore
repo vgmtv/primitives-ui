@@ -1,0 +1,10 @@
+node_modules/
+.cache/
+build/
+dist/
+*.log
+**/doc
+!/**/.gitkeep
+!/**/*.ini
+.DS_Store
+lib
