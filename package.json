@@ -6,7 +6,10 @@
   "repository": "git@github.com:team-a7/cuoi.git",
   "author": "nampdn <nampdn@protonmail.com>",
   "license": "MIT",
-  "private": true,
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "tag": "latest"
+  },
   "scripts": {
     "styleguide": "styleguidist server",
     "start": "run-s styleguide",
