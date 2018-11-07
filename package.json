@@ -1,9 +1,9 @@
 {
-  "name": "@a7/cuoi",
+  "name": "@vgm/primitives-ui",
   "version": "1.0.0",
-  "description": "Common UI",
+  "description": "Primitives UI React Components Across Targets",
   "main": "index.js",
-  "repository": "git@github.com:team-a7/cuoi.git",
+  "repository": "git@github.com:vgmtv/react-primitives-components.git",
   "author": "nampdn <nampdn@protonmail.com>",
   "license": "MIT",
   "publishConfig": {
