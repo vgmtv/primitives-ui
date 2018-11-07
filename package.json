@@ -23,9 +23,9 @@
     "semantic-release": "semantic-release"
   },
   "dependencies": {
-    "@a7/icons": "^1.0.0",
-    "@a7/rsvg": "^1.0.0",
-    "@a7/vgm-constant": "^1.0.2",
+    "@vgm/design-specs": "^1.0.1",
+    "@vgm/icons": "^1.0.2",
+    "@vgm/rsvg": "^1.0.0",
     "react": "~16.6.0",
     "react-dom": "~16.6.0",
     "react-primitives": "^0.6.1",

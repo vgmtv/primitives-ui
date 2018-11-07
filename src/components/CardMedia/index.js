@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 import {View, StyleSheet, Image} from 'react-primitives'
-import {design} from '@a7/vgm-constant'
+import {design} from '@vgm/design-specs'
 
 const {
   size: {unit},

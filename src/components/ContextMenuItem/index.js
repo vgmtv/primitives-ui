@@ -1,12 +1,12 @@
 import React, {Component} from 'react'
 import {View, StyleSheet, Text} from 'react-primitives'
-import {design} from '@a7/vgm-constant'
+import {design} from '@vgm/design-specs'
 import {
   PlaylistAddIcon,
   TickIcon,
   FacebookIcon,
   GooglePlusIcon,
-} from '@a7/icons'
+} from '@vgm/icons'
 
 const {
   size: {unit, icon},

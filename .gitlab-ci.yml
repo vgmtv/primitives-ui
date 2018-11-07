@@ -1,0 +1,34 @@
+cache:
+  paths:
+    - node_modules/
+
+before_script:
+  - echo "//registry.npmjs.org/:_authToken=\${NPM_TOKEN}" > .npmrc
+  - yarn install
+
+build:
+  stage: build
+  tags:
+    - vgm
+    - library
+  script:
+    - yarn build
+
+test:
+  stage: test
+  tags:
+    - vgm
+    - library
+  script:
+    - yarn test
+
+deploy:
+  stage: deploy
+  tags:
+    - vgm
+    - library
+  script:
+    - yarn semantic-release
+  only:
+    - master
+

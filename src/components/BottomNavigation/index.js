@@ -7,8 +7,8 @@ import {
   SearchIcon,
   VideoIcon,
   UserIcon,
-} from '@a7/icons'
-import {design} from '@a7/vgm-constant'
+} from '@vgm/icons'
+import {design} from '@vgm/design-specs'
 
 const {
   size: {unit},

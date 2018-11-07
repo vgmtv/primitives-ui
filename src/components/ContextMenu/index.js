@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
 import {View, StyleSheet, Text} from 'react-primitives'
-import {CloseIcon} from '@a7/icons'
-import {design} from '@a7/vgm-constant'
+import {CloseIcon} from '@vgm/icons'
+import {design} from '@vgm/design-specs'
 
 const {
   size: {unit, icon},

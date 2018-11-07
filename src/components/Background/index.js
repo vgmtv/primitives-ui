@@ -8,7 +8,7 @@ import {
   Rect,
   Stop,
   G,
-} from '@a7/rsvg'
+} from '@vgm/rsvg'
 
 /**
  * @render react

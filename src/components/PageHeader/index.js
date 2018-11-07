@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
 import {View, StyleSheet, Text} from 'react-primitives'
-import {design} from '@a7/vgm-constant'
-import {CaretLeftIcon} from '@a7/icons'
+import {design} from '@vgm/design-specs'
+import {CaretLeftIcon} from '@vgm/icons'
 
 const {
   size: {unit, icon},

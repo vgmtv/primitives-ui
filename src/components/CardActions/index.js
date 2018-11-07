@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
 import {View, StyleSheet} from 'react-primitives'
-import {design} from '@a7/vgm-constant'
-import {ShareDesktopIcon, PlaylistAddIcon, MoreIcon} from '@a7/icons'
+import {design} from '@vgm/design-specs'
+import {ShareDesktopIcon, PlaylistAddIcon, MoreIcon} from '@vgm/icons'
 
 const {
   size: {unit, icon},
