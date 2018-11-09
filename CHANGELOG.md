@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/vgmtv/primitives-ui.git/compare/v1.0.0...v1.0.1) (2018-11-09)
+
+
+### Bug Fixes
+
+* **package:** not specify main entry correctly ([4955822](https://github.com/vgmtv/primitives-ui.git/commit/4955822))
+
 # 1.0.0 (2018-11-07)
 
 
