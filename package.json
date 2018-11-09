@@ -1,6 +1,6 @@
 {
   "name": "@vgm/primitives-ui",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Primitives UI React Components Across Targets",
   "main": "lib/index.js",
   "repository": "git@github.com:vgmtv/primitives-ui.git",
@@ -10,7 +10,9 @@
     "registry": "https://registry.npmjs.org/",
     "tag": "latest"
   },
-  "files": ["lib/*"],
+  "files": [
+    "lib/*"
+  ],
   "scripts": {
     "styleguide": "styleguidist server",
     "start": "run-s styleguide",
