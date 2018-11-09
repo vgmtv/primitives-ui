@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/vgmtv/primitives-ui.git/compare/v1.0.2...v1.0.3) (2018-11-09)
+
+
+### Bug Fixes
+
+* **gitlab:** not include build command when deploy ([62afcc5](https://github.com/vgmtv/primitives-ui.git/commit/62afcc5))
+
 ## [1.0.2](https://github.com/vgmtv/primitives-ui.git/compare/v1.0.1...v1.0.2) (2018-11-09)
 
 
