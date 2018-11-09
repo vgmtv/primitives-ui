@@ -30,6 +30,7 @@ deploy:
     - vgm
     - library
   script:
+    - yarn build
     - yarn semantic-release
   only:
     - master
