@@ -2,7 +2,7 @@
   "name": "@vgm/primitives-ui",
   "version": "1.0.0",
   "description": "Primitives UI React Components Across Targets",
-  "main": "index.js",
+  "main": "lib/index.js",
   "repository": "git@github.com:vgmtv/primitives-ui.git",
   "author": "nampdn <nampdn@protonmail.com>",
   "license": "MIT",
