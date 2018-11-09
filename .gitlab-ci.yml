@@ -13,6 +13,7 @@ build:
   tags:
     - vgm
     - library
+    - yarn
   script:
     - yarn build
 
@@ -21,6 +22,7 @@ test:
   tags:
     - vgm
     - library
+    - yarn
   script:
     - yarn test
 
@@ -29,6 +31,7 @@ deploy:
   tags:
     - vgm
     - library
+    - yarn
   script:
     - yarn build
     - yarn semantic-release
