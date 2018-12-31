@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/vgmtv/primitives-ui.git/compare/v1.0.3...v1.1.0) (2018-12-31)
+
+
+### Features
+
+* **package:** open source module ([83b2d0e](https://github.com/vgmtv/primitives-ui.git/commit/83b2d0e))
+
 ## [1.0.3](https://github.com/vgmtv/primitives-ui.git/compare/v1.0.2...v1.0.3) (2018-11-09)
 
 
