@@ -32,7 +32,7 @@
     "@vgm/rsvg": "^1.0.0",
     "react": "~16.6.0",
     "react-dom": "~16.6.0",
-    "react-primitives": "^0.6.1",
+    "react-primitives": "^0.8.0",
     "react-spring": "^6.1.5"
   },
   "devDependencies": {
